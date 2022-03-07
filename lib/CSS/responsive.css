@@ -1,7 +1,7 @@
 @media(max-width:767px) {
     body{
         background-color: black;
-        background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.5) 100%), url("https://user-images.githubusercontent.com/98095685/156355813-9fde3517-efa5-45d2-9bd1-bed73f2f826a.jpg    ");
+        background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.5) 100%), url("https://user-images.githubusercontent.com/98095685/156355813-9fde3517-efa5-45d2-9bd1-bed73f2f826a.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center  -30vh;
