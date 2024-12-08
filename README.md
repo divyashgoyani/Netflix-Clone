@@ -1,7 +1,7 @@
 # Netflix Clone
 
 ## 🌐 Hosted Link  
-Access the live project here: [counter](https://net-flixclonedivyash.netlify.app)
+Access the live project here: [net-flixclonedivyash](https://net-flixclonedivyash.netlify.app)
 
 ---
 
